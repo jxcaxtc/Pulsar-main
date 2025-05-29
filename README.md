@@ -1,5 +1,6 @@
 # Pulsar-main
 Pulsar-main汉化源代码
+原项目地址：https://github.com/Quasar-Continuation/Pulsar
 # Pulsar
 
 [![Build Status](https://ci.appveyor.com/api/projects/status/5857hfy6r1ltb5f2?svg=true)](https://ci.appveyor.com/project/MaxXor/pulsar)
